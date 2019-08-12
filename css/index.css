@@ -260,7 +260,11 @@ footer {
   padding: 5px;
 }  */
 
-
+@media (max-width: 800px) {
+    .container { 
+      width: 80%;
+      margin: 0 auto;
+    }
 
   header .logo {
     padding-bottom: 20px;
@@ -294,7 +298,12 @@ footer {
   } 
 }
 
-
+@media (max-width: 500px) {
+    .container {
+      width: 80%;
+      margin: 0 auto;
+    }
+  
 
   header nav {   
     flex-direction: column;
