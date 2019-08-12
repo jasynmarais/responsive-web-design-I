@@ -48,7 +48,7 @@ table {
   border-spacing: 0;
 }
 
-/* Set every element's box-sizing to border-box */
+
 * {
     box-sizing: border-box;
 }
@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5 {
   margin: 0 auto;
 }
 
-/* header */
+
 header {
   margin: 40px 0 20px;
   padding: 20px 0;
