@@ -262,7 +262,7 @@ footer {
 
 @media (max-width: 800px) {
     .container { 
-      width: 80%;
+      max-width: 100%;
       margin: 0 auto;
     }
 
@@ -300,7 +300,7 @@ footer {
 
 @media (max-width: 500px) {
     .container {
-      width: 80%;
+      max-width: 100%;
       margin: 0 auto;
     }
   
